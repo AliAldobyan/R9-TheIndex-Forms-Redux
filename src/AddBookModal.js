@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React, { useState } from "react";
 
 import BookForm from "./BookForm";
 import Modal from "react-responsive-modal";
